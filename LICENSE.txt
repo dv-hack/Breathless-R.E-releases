@@ -1,0 +1,17 @@
+Breathless-R.E - binary releases
+
+Copyright (c) 2026 Daniele Vacca. All rights reserved.
+
+The archives published here are freeware. You may download them, use them
+and redistribute them unchanged and free of charge, for example on Aminet,
+on cover disks or on other download sites, as long as this notice stays
+with them.
+
+You may not sell them, modify them or redistribute them in part.
+
+Breathless and its game data are (c) 1995 Fields of Vision and are not
+part of these archives. This is an unofficial project, not affiliated
+with Fields of Vision.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. USE IT AT
+YOUR OWN RISK.
